@@ -1,2 +1,2 @@
 # Sumya
-Its all about me
+Its for me lab's homework
